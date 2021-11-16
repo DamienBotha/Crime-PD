@@ -1,7 +1,7 @@
 [
   {
     "id":1,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"Grove Street",
     "notes":"A gang that has alot of members and goes around in green clothes and cars, ",
     "order":1,
@@ -67,7 +67,7 @@
   },
   {
     "id":4,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"Unfazed",
     "notes":"This is a location mostly filled with members of the unfazed gang, There is a mechanics shop called Auto Exotics that is owned by the gang aswell, People of unfazed go around in blue clothes.",
     "order":2,
@@ -88,7 +88,7 @@
   },
   {
     "id":5,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"The Ratz Gang",
     "notes":"This is a very distinct gang, They go around in very rusty cars and very non modern old clothes. They own this big area.",
     "order":2,
@@ -142,7 +142,7 @@
   },
   {
     "id":8,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"The Cartel",
     "notes":"This is a gang with not too much information on, But we know that they hang out at the Vinilla Unicorn Strip club",
     "order":2,
@@ -215,7 +215,7 @@
 },
 {
   "id":12,
-  "type":"Gang Areas",
+  "type":"Territory Areas",
   "title":"The Hooligans",
   "notes":"This is a gang that is regularly seen within the city, The go around in black with yellow pearlessent clothes and cars",
   "order":2,
@@ -235,7 +235,7 @@
 },
 {
   "id":13,
-  "type":"Gang Areas",
+  "type":"Territory Areas",
   "title":"The Pink Paratroopers",
   "notes":"This is a gang that we dont have alot of info on but Know that they go aroung in all pink clothes and cars and know that they hang around in this location alot",
   "order":2,
