@@ -16,7 +16,7 @@
   ]
   },
   {
-    "id":3,
+    "id":2,
     "type":"Territory Areas",
     "title":"Legion Pawnshop",
     "notes":"Place where criminals can sell goods from jewelry robberys",
@@ -34,7 +34,7 @@
   ]
   },
   {
-    "id":4,
+    "id":3,
     "type":"Territory Areas",
     "title":"The Casino",
     "notes":"When open this area is very popular and has big crouds, People can easily waist alot of money here, Populated area!",
@@ -42,14 +42,21 @@
 	"strokecolor":"#F0FF00",
 	"fillcolor":"#F0FF00",
     "latlngarray": [
-		{"lat": 70.011, "lng": -115.523},
-		{"lat": 69.800, "lng": -116.050},
-		{"lat": 69.616, "lng": -115.226},
-		{"lat": 69.900, "lng": -114.710}
-	]
+      {"lat": 69.742, "lng": -116.175},
+      {"lat": 69.567, "lng": -115.351},
+      {"lat": 69.339, "lng": -114.670},
+      {"lat": 69.701, "lng": -113.297},
+      {"lat": 70.205, "lng": -112.385},
+      {"lat": 70.650, "lng": -112.495},
+      {"lat": 70.614, "lng": -113.385},
+      {"lat": 70.523, "lng": -114.044},
+      {"lat": 70.268, "lng": -114.604},
+      {"lat": 70.097, "lng": -114.923},
+      {"lat": 70.022, "lng": -115.582}
+      ]
   },
   {
-    "id":5,
+    "id":4,
     "type":"Territory Areas",
     "title":"Unfazed",
     "notes":"This is a location mostly filled with members of the unfazed gang, There is a mechanics shop called Auto Exotics that is owned by the gang aswell, People of unfazed go around in blue clothes.",
@@ -70,7 +77,7 @@
 	]
   },
   {
-    "id":6,
+    "id":5,
     "type":"Territory Areas",
     "title":"The Ratz Gang",
     "notes":"This is a very distinct gang, They go around in very rusty cars and very non modern old clothes. They own this big area.",
@@ -85,7 +92,7 @@
 	]
   },
   {
-    "id":7,
+    "id":6,
     "type":"Neutral Zones",
     "title":"Pillbox Hospital",
     "notes":"Hospital, This is obviously where all the indured or dead people go, It's always full of people and ",
@@ -100,7 +107,7 @@
 	]
   },
   {
-    "id":8,
+    "id":7,
     "type":"Neutral Zones",
     "title":"Mission Row PD",
     "notes":"Main PD where most the criminals go",
@@ -115,7 +122,7 @@
 	]
   },
   {
-    "id":9,
+    "id":8,
     "type":"Territory Areas",
     "title":"The Cartel",
     "notes":"This is a gang with not too much information on, But we know that they hang out at the Vinilla Unicorn Strip club",
@@ -130,7 +137,7 @@
 	]
   },
   {
-    "id":10,
+    "id":9,
     "type":"Territory Areas",
     "title":"The Dam",
     "notes":"Quiet area most of the time, But Alot of murders go down here",
@@ -147,7 +154,7 @@
 	]
   },
   {
-    "id":11,
+    "id":10,
     "type":"Neutral Zones",
     "title":"Legion Square",
     "notes":"Highly Populated area with alot of crime, Main Hotspot for the city",
@@ -162,7 +169,7 @@
 	]
   },
   {
-    "id":12,
+    "id":11,
     "type":"Neutral Zones",
     "title":"Oxy Shop",
     "notes":"Know place to buy OXY, People ileagaly sell this Item",
