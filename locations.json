@@ -208,7 +208,24 @@
     {"lat": 69.662, "lng": -129.226},
     {"lat": 69.517, "lng": -130.072},
     {"lat": 69.455, "lng": -129.732}
+]
+},
+{
+  "id":13,
+  "type":"Territory Areas",
+  "title":"The Pink Paratroopers",
+  "notes":"This is a gang that we dont have alot of info on but Know that they go aroung in all pink clothes and cars and know that they hang around in this location alot",
+  "order":2,
+"strokecolor":"#FF00C1",
+"fillcolor":"#FF00C1",
+  "latlngarray": [
+    {"lat": 69.323, "lng": -129.248},
+    {"lat": 69.451, "lng": -128.754},
+    {"lat": 69.643, "lng": -128.490},
+    {"lat": 69.662, "lng": -129.951},
+    {"lat": 69.662, "lng": -129.226},
+    {"lat": 69.517, "lng": -130.072},
+    {"lat": 69.455, "lng": -129.732}
     ]
 }
-
 ]
