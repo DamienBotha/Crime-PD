@@ -1,7 +1,7 @@
 [
   {
     "id":1,
-    "type":"Territory Areas",
+    "type":"Gang Locations",
     "title":"Grove Street",
     "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
@@ -52,8 +52,8 @@
   },
   {
     "id":5,
-    "type":"Territory Areas",
-    "title":"Quickfix",
+    "type":"Gang Locations",
+    "title":"P family",
     "notes":"Fill me in :)",
 	"wiki_link":"https://nopixel.fandom.com/wiki/QuickFix_(Clubhouse)",
     "order":2,
@@ -68,7 +68,7 @@
   },
   {
     "id":6,
-    "type":"Territory Areas",
+    "type":"Gang Locations",
     "title":"Unfazed",
     "notes":"Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/HOA",
@@ -90,8 +90,8 @@
   },
   {
     "id":7,
-    "type":"Territory Areas",
-    "title":"The Scrapyard",
+    "type":"Gang Locations",
+    "title":"The Ratz Gang",
     "notes":"Shared between the bikers, Ashenfell and BBC at different times of the day",
     "order":2,
 	"strokecolor":"#000000",
@@ -154,7 +154,7 @@
     "id":11,
     "type":"Territory Areas",
     "title":"The Dam",
-    "notes":"Claimed by HOA",
+    "notes":"Quiet area most of the time, But Alot of murders go down here",
     "order":2,
 	"strokecolor":"#FF0000",
 	"fillcolor":"#FF0000",
@@ -184,7 +184,7 @@
   },
   {
     "id":13,
-    "type":"Territory Areas",
+    "type":"Crime Areas",
     "title":"Oxy Shop",
     "notes":"Who uses this place anyways? KEKW",
     "order":2,
