@@ -250,6 +250,52 @@
     {"lat": 74.282, "lng": -98.678},
     {"lat": 74.181, "lng": -98.524},
     {"lat": 74.078, "lng": -98.513}
-    ]
+]
+},
+{
+  "id":15,
+  "type":"Neutral Zones",
+  "title":"RedLine Preformance",
+  "notes":"This Is where people can get their cars upgraded and is a highly populated area for criminals and civilians",
+  "order":2,
+"strokecolor":"#740505",
+"fillcolor":"#740505",
+  "latlngarray": [
+    {"lat": 66.621, "lng": -130.684},
+    {"lat": 66.621, "lng": -129.553},
+    {"lat": 66.463, "lng": -129.585},
+    {"lat": 66.208, "lng": -129.893},
+    {"lat": 66.221, "lng": -130.673}
+]
+},
+{
+  "id":16,
+  "type":"Neutral Zones",
+  "title":"Vangelico Jewlrey Store",
+  "notes":"This Is a Jewlrey store that has alot of valuables inside, Criminals often rob this shop and sell the items at the pawn shops",
+  "order":2,
+"strokecolor":"#560096",
+"fillcolor":"#560096",
+  "latlngarray": [
+    {"lat": 68.568, "lng": -130.694},
+    {"lat": 68.684, "lng": -130.133},
+    {"lat": 69.029, "lng": -130.672},
+    {"lat": 68.919, "lng": -131.276}
+]
+},
+{
+  "id":17,
+  "type":"Neutral Zones",
+  "title":"Vangelico Jewlrey Store",
+  "notes":"This Is a Jewlrey store that has alot of valuables inside, Criminals often rob this shop and sell the items at the pawn shops",
+  "order":2,
+"strokecolor":"#560096",
+"fillcolor":"#560096",
+  "latlngarray": [
+    {"lat": 68.568, "lng": -130.694},
+    {"lat": 68.684, "lng": -130.133},
+    {"lat": 69.029, "lng": -130.672},
+    {"lat": 68.919, "lng": -131.276}
+]
 }
 ]
