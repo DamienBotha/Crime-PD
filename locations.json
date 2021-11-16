@@ -17,7 +17,7 @@
   },
   {
     "id":2,
-    "type":"Territory Areas",
+    "type":"Neutral Zones",
     "title":"Legion Pawnshop",
     "notes":"Place where criminals can sell goods from jewelry robberys",
     "order":2,
@@ -219,13 +219,10 @@
 "strokecolor":"#FF00C1",
 "fillcolor":"#FF00C1",
   "latlngarray": [
-    {"lat": 69.323, "lng": -129.248},
-    {"lat": 69.451, "lng": -128.754},
-    {"lat": 69.643, "lng": -128.490},
-    {"lat": 69.662, "lng": -129.951},
-    {"lat": 69.662, "lng": -129.226},
-    {"lat": 69.517, "lng": -130.072},
-    {"lat": 69.455, "lng": -129.732}
+    {"lat": 67.673, "lng": -138.031},
+    {"lat": 67.354, "lng": -137.492},
+    {"lat": 67.039, "lng": -138.536},
+    {"lat": 67.320, "lng": -139.459}
     ]
 }
 ]
