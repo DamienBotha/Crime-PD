@@ -413,7 +413,7 @@
     ]
 },
 {
-  "id":23,
+  "id":22,
   "type":"Neutral Zones",
   "title":"Route 68 Bank",
   "notes":"This Is part of the highly robbed banks group",
@@ -443,7 +443,7 @@
     ]
 },
 {
-  "id":23,
+  "id":24,
   "type":"Neutral Zones",
   "title":"FIB Building",
   "notes":"This Is Highly defended and full of security, Armed gaurds 24/7 monitoring the building for unwanted criminals. ",
@@ -459,6 +459,25 @@
     {"lat": 67.518, "lng": -123.293},
     {"lat": 67.388, "lng": -123.612},
     {"lat": 67.197, "lng": -123.810}
+    ]
+},
+{
+  "id":25,
+  "type":"Neutral Zones",
+  "title":"Hayes/PDM",
+  "notes":"This Is Highly populated area and alot of people hang around here, PDM is where you can buy the cars and hayes and where you can get impounded vehicles out. ",
+  "order":2,
+"strokecolor":"#FF0000",
+"fillcolor":"#FF0000",
+  "latlngarray": [
+    {"lat": 65.660, "lng": -124.771},
+    {"lat": 65.533, "lng": -124.848},
+    {"lat": 65.359, "lng": -124.782},
+    {"lat": 65.291, "lng": -126.804},
+    {"lat": 65.501, "lng": -126.891},
+    {"lat": 65.574, "lng": -126.133},
+    {"lat": 65.701, "lng": -125.408},
+    {"lat": 65.304, "lng": -125.782}
     ]
 }
 ]
