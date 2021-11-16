@@ -42,17 +42,27 @@
 	"strokecolor":"#F0FF00",
 	"fillcolor":"#F0FF00",
     "latlngarray": [
-      {"lat": 69.742, "lng": -116.175},
-      {"lat": 69.567, "lng": -115.351},
-      {"lat": 69.339, "lng": -114.670},
-      {"lat": 69.701, "lng": -113.297},
-      {"lat": 70.205, "lng": -112.385},
-      {"lat": 70.650, "lng": -112.495},
-      {"lat": 70.614, "lng": -113.385},
-      {"lat": 70.523, "lng": -114.044},
-      {"lat": 70.268, "lng": -114.604},
-      {"lat": 70.097, "lng": -114.923},
-      {"lat": 70.022, "lng": -115.582}
+      {"lat": 69.727, "lng": -116.245},
+      {"lat": 69.528, "lng": -115.333},
+      {"lat": 69.443, "lng": -115.113},
+      {"lat": 69.397, "lng": -114.960},
+      {"lat": 69.346, "lng": -114.861},
+      {"lat": 69.312, "lng": -114.652},
+      {"lat": 69.308, "lng": -114.432},
+      {"lat": 69.304, "lng": -114.224},
+      {"lat": 69.343, "lng": -114.015},
+      {"lat": 69.377, "lng": -113.828},
+      {"lat": 69.489, "lng": -113.619},
+      {"lat": 69.620, "lng": -113.411},
+      {"lat": 70.323, "lng": -112.136},
+      {"lat": 70.515, "lng": -112.136},
+      {"lat": 70.643, "lng": -112.433},
+      {"lat": 70.679, "lng": -112.740},
+      {"lat": 70.668, "lng": -113.147},
+      {"lat": 70.646, "lng": -113.367},
+      {"lat": 70.551, "lng": -114.103},
+      {"lat": 70.323, "lng": -114.795},
+      {"lat": 70.093, "lng": -115.344}
       ]
   },
   {
@@ -337,6 +347,51 @@
     {"lat": 68.188, "lng": -136.693},
     {"lat": 68.246, "lng": -136.122},
     {"lat": 68.577, "lng": -136.243}
+]
+},
+{
+  "id":19,
+  "type":"Neutral Zones",
+  "title":"Hawick ave Bank",
+  "notes":"This Is part of the highly robbed banks group",
+  "order":2,
+"strokecolor":"#002EFF",
+"fillcolor":"#002EFF",
+  "latlngarray": [
+    {"lat": 68.753, "lng": -121.866},
+    {"lat": 68.689, "lng": -121.371},
+    {"lat": 68.512, "lng": -121.569},
+    {"lat": 68.581, "lng": -122.009}
+    ]
+},
+{
+  "id":20,
+  "type":"Neutral Zones",
+  "title":"Great Ocean Highway Bank",
+  "notes":"This Is part of the highly robbed banks group",
+  "order":2,
+"strokecolor":"#002EFF",
+"fillcolor":"#002EFF",
+  "latlngarray": [
+    {"lat": 71.354, "lng": -153.792},
+    {"lat": 71.354, "lng": -153.023},
+    {"lat": 71.113, "lng": -153.056},
+    {"lat": 71.131, "lng": -153.869}
+]
+},
+{
+  "id":21,
+  "type":"Neutral Zones",
+  "title":"Blain County Bank",
+  "notes":"This Is a bank that holds better goods, Seperate from fleeca banks and often hit ones.  ",
+  "order":2,
+"strokecolor":"#002EFF",
+"fillcolor":"#002EFF",
+  "latlngarray": [
+    {"lat": 83.159, "lng": -126.160},
+    {"lat": 83.226, "lng": -125.753},
+    {"lat": 83.166, "lng": -125.160},
+    {"lat": 83.104, "lng": -125.709}
     ]
 }
 ]
