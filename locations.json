@@ -426,6 +426,40 @@
     {"lat": 77.034, "lng": -112.401},
     {"lat": 77.041, "lng": -113.379}
     ]
+},
+{
+  "id":23,
+  "type":"Neutral Zones",
+  "title":"Union Depository",
+  "notes":"This Is a building with loads of security and some armed gaurds, There is a vault at the back and is full of gold, Previously when this has been robbed they have blown a hole in the back wall in the vault and got out threought the back.",
+  "order":2,
+"strokecolor":"#FF0000",
+"fillcolor":"#FF0000",
+  "latlngarray": [
+    {"lat": 67.687, "lng": -125.034},
+    {"lat": 67.629, "lng": -123.858},
+    {"lat": 66.989, "lng": -124.441},
+    {"lat": 67.147, "lng": -125.561}
+    ]
+},
+{
+  "id":23,
+  "type":"Neutral Zones",
+  "title":"FIB Building",
+  "notes":"This Is Highly defended and full of security, Armed gaurds 24/7 monitoring the building for unwanted criminals. ",
+  "order":2,
+"strokecolor":"#FF0000",
+"fillcolor":"#FF0000",
+  "latlngarray": [
+    {"lat": 66.974, "lng": -123.996},
+    {"lat": 66.815, "lng": -123.052},
+    {"lat": 66.871, "lng": -122.645},
+    {"lat": 67.116, "lng": -122.414},
+    {"lat": 67.379, "lng": -122.458},
+    {"lat": 67.518, "lng": -123.293},
+    {"lat": 67.388, "lng": -123.612},
+    {"lat": 67.197, "lng": -123.810}
+    ]
 }
 ]
 
