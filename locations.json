@@ -191,5 +191,24 @@
 {"lat": 63.319, "lng": -124.068},
 {"lat": 63.565, "lng": -123.079}
 ]
+},
+{
+  "id":12,
+  "type":"Territory Areas",
+  "title":"The Hooligins",
+  "notes":"This is a gang that is regularly seen within the city, The go around in black with yellow pearlessent clothes and cars",
+  "order":2,
+"strokecolor":"#595D27",
+"fillcolor":"#595D27",
+  "latlngarray": [
+    {"lat": 69.323, "lng": -129.248},
+    {"lat": 69.451, "lng": -128.754},
+    {"lat": 69.643, "lng": -128.490},
+    {"lat": 69.662, "lng": -129.951},
+    {"lat": 69.662, "lng": -129.226},
+    {"lat": 69.517, "lng": -130.072},
+    {"lat": 69.455, "lng": -129.732}
+    ]
 }
+
 ]
