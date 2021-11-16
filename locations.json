@@ -157,7 +157,7 @@
   },
   {
     "id":9,
-    "type":"Territory Areas",
+    "type":"Neutral Zones",
     "title":"The Dam",
     "notes":"Quiet area most of the time, But Alot of murders go down here",
     "order":2,
@@ -248,7 +248,7 @@
 },
 {
   "id":14,
-  "type":"Territory Areas",
+  "type":"Neutral Zones",
   "title":"Power Plant",
   "notes":"This is the place that provides the power for the whole city, If this gets hit The power for the city goes down, People can use this to stop alarms and any security futures from working.",
   "order":2,
@@ -375,10 +375,10 @@
 "strokecolor":"#002EFF",
 "fillcolor":"#002EFF",
   "latlngarray": [
-    {"lat": 68.753, "lng": -121.866},
-    {"lat": 68.689, "lng": -121.371},
-    {"lat": 68.512, "lng": -121.569},
-    {"lat": 68.581, "lng": -122.009}
+    {"lat": 68.392, "lng": -121.645},
+    {"lat": 68.545, "lng": -122.601},
+    {"lat": 68.860, "lng": -122.293},
+    {"lat": 68.745, "lng": -121.315}
     ]
 },
 {
@@ -432,10 +432,14 @@
 "strokecolor":"#002EFF",
 "fillcolor":"#002EFF",
   "latlngarray": [
-    {"lat": 77.125, "lng": -113.412},
-    {"lat": 77.105, "lng": -112.390},
-    {"lat": 77.034, "lng": -112.401},
-    {"lat": 77.041, "lng": -113.379}
+    {"lat": 77.009, "lng": -113.519},
+    {"lat": 77.167, "lng": -113.629},
+    {"lat": 77.235, "lng": -113.475},
+    {"lat": 77.249, "lng": -112.552},
+    {"lat": 77.193, "lng": -112.211},
+    {"lat": 77.125, "lng": -112.135},
+    {"lat": 77.004, "lng": -112.124},
+    {"lat": 77.004, "lng": -112.816}
     ]
 },
 {
