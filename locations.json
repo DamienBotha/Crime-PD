@@ -297,5 +297,31 @@
     {"lat": 69.029, "lng": -130.672},
     {"lat": 68.919, "lng": -131.276}
 ]
+},
+{
+  "id":17,
+  "type":"Neutral Zones",
+  "title":"Humain Labs",
+  "notes":"This Is a Highly robbed chemical lab that is robbed for chemicals and is always robbed with hostages, It is located here",
+  "order":2,
+"strokecolor":"#002EFF",
+"fillcolor":"#002EFF",
+  "latlngarray": [
+    {"lat": 79.260, "lng": -89.396},
+    {"lat": 79.157, "lng": -89.221},
+    {"lat": 79.138, "lng": -89.023},
+    {"lat": 79.068, "lng": -89.353},
+    {"lat": 78.990, "lng": -89.473},
+    {"lat": 78.990, "lng": -89.396},
+    {"lat": 78.900, "lng": -89.418},
+    {"lat": 78.885, "lng": -89.418},
+    {"lat": 78.894, "lng": -89.671},
+    {"lat": 78.972, "lng": -91.396},
+    {"lat": 79.062, "lng": -91.759},
+    {"lat": 79.256, "lng": -91.440},
+    {"lat": 79.256, "lng": -91.033},
+    {"lat": 79.280, "lng": -90.715},
+    {"lat": 79.289, "lng": -90.100}
+    ]
 }
 ]
