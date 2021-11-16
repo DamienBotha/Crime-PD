@@ -337,7 +337,7 @@
 {
   "id":18,
   "type":"Neutral Zones",
-  "title":"Rockford Hills Bank",
+  "title":"Boulevard Del Perro Bank",
   "notes":"This Is part of the highly robbed banks group",
   "order":2,
 "strokecolor":"#002EFF",
@@ -385,13 +385,29 @@
   "title":"Blain County Bank",
   "notes":"This Is a bank that holds better goods, Seperate from fleeca banks and often hit ones.  ",
   "order":2,
-"strokecolor":"#002EFF",
-"fillcolor":"#002EFF",
+"strokecolor":"#FF0000",
+"fillcolor":"#FF0000",
   "latlngarray": [
     {"lat": 83.159, "lng": -126.160},
     {"lat": 83.226, "lng": -125.753},
     {"lat": 83.166, "lng": -125.160},
     {"lat": 83.104, "lng": -125.709}
+]
+},
+{
+  "id":23,
+  "type":"Neutral Zones",
+  "title":"Route 68 Bank",
+  "notes":"This Is part of the highly robbed banks group",
+  "order":2,
+"strokecolor":"#002EFF",
+"fillcolor":"#002EFF",
+  "latlngarray": [
+    {"lat": 77.125, "lng": -113.412},
+    {"lat": 77.105, "lng": -112.390},
+    {"lat": 77.034, "lng": -112.401},
+    {"lat": 77.041, "lng": -113.379}
     ]
 }
 ]
+
