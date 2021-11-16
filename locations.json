@@ -1,10 +1,9 @@
 [
   {
     "id":1,
-    "type":"Gang Locations",
+    "type":"Territory Areas",
     "title":"Grove Street",
-    "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
+    "notes":"A gang that has alot of members and goes around in green clothes and cars, ",
     "order":1,
 	"strokecolor":"#04FF00",
 	"fillcolor":"#04FF00",
@@ -20,7 +19,7 @@
     "id":3,
     "type":"Territory Areas",
     "title":"Legion Pawnshop",
-    "notes":"Who know who owns this place anymore",
+    "notes":"Place where criminals can sell goods from jewelry robberys",
     "order":2,
 	"strokecolor":"#F0FF00",
 	"fillcolor":"#F0FF00",
@@ -38,8 +37,7 @@
     "id":4,
     "type":"Territory Areas",
     "title":"The Casino",
-    "notes":"Koreans, but the casino is not used very much as nothing actually works.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+    "notes":"When open this area is very popular and has big crouds, People can easily waist alot of money here, Populated area!",
     "order":2,
 	"strokecolor":"#F0FF00",
 	"fillcolor":"#F0FF00",
@@ -52,26 +50,9 @@
   },
   {
     "id":5,
-    "type":"Gang Locations",
-    "title":"P family",
-    "notes":"Fill me in :)",
-	"wiki_link":"https://nopixel.fandom.com/wiki/QuickFix_(Clubhouse)",
-    "order":2,
-	"strokecolor":"#FF9E00",
-	"fillcolor":"#FF9E00",
-    "latlngarray": [
-		{"lat": 69.418, "lng": -115.109},
-		{"lat": 69.239, "lng": -115.493},
-		{"lat": 69.048, "lng": -114.658},
-		{"lat": 69.197, "lng": -114.230}
-	]
-  },
-  {
-    "id":6,
-    "type":"Gang Locations",
+    "type":"Territory Areas",
     "title":"Unfazed",
-    "notes":"Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/HOA",
+    "notes":"This is a location mostly filled with members of the unfazed gang, There is a mechanics shop called Auto Exotics that is owned by the gang aswell, People of unfazed go around in blue clothes.",
     "order":2,
 	"strokecolor":"#339FFF",
 	"fillcolor":"#339FFF",
@@ -89,10 +70,10 @@
 	]
   },
   {
-    "id":7,
-    "type":"Gang Locations",
+    "id":6,
+    "type":"Territory Areas",
     "title":"The Ratz Gang",
-    "notes":"Shared between the bikers, Ashenfell and BBC at different times of the day",
+    "notes":"This is a very distinct gang, They go around in very rusty cars and very non modern old clothes. They own this big area.",
     "order":2,
 	"strokecolor":"#000000",
 	"fillcolor":"#5E5E60",
@@ -104,11 +85,10 @@
 	]
   },
   {
-    "id":8,
+    "id":7,
     "type":"Neutral Zones",
     "title":"Pillbox Hospital",
-    "notes":"EMS GANG GANG AYAYA",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
+    "notes":"Hospital, This is obviously where all the indured or dead people go, It's always full of people and ",
     "order":2,
 	"strokecolor":"#002BFF",
 	"fillcolor":"#002BFF",
@@ -120,10 +100,10 @@
 	]
   },
   {
-    "id":9,
+    "id":8,
     "type":"Neutral Zones",
     "title":"Mission Row PD",
-    "notes":"Oink oink oink oink. Snort. More like a pig pen.",
+    "notes":"Main PD where most the criminals go",
     "order":2,
 	"strokecolor":"#002BFF",
 	"fillcolor":"#002BFF",
@@ -135,11 +115,10 @@
 	]
   },
   {
-    "id":10,
-    "type":"Neutral Zones",
-    "title":"Vanilla Unicorn",
-    "notes":"Now owned by Nino Chavez, the VU is a new southside netural zone.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
+    "id":9,
+    "type":"Territory Areas",
+    "title":"The Cartel",
+    "notes":"This is a gang with not too much information on, But we know that they hang out at the Vinilla Unicorn Strip club",
     "order":2,
 	"strokecolor":"#DC00FF",
 	"fillcolor":"#DC00FF",
@@ -151,7 +130,7 @@
 	]
   },
   {
-    "id":11,
+    "id":10,
     "type":"Territory Areas",
     "title":"The Dam",
     "notes":"Quiet area most of the time, But Alot of murders go down here",
@@ -168,10 +147,10 @@
 	]
   },
   {
-    "id":12,
-    "type":"Territory Areas",
+    "id":11,
+    "type":"Neutral Zones",
     "title":"Legion Square",
-    "notes":"Claimed by the Misfits, next to Creampie Creations and Cop Killer Records",
+    "notes":"Highly Populated area with alot of crime, Main Hotspot for the city",
     "order":2,
 	"strokecolor":"#20C11B",
 	"fillcolor":"#20C11B",
@@ -183,10 +162,10 @@
 	]
   },
   {
-    "id":13,
-    "type":"Crime Areas",
+    "id":12,
+    "type":"Neutral Zones",
     "title":"Oxy Shop",
-    "notes":"Who uses this place anyways? KEKW",
+    "notes":"Know place to buy OXY, People ileagaly sell this Item",
     "order":2,
 	"strokecolor":"#00FFEC",
 	"fillcolor":"#00FFEC",
