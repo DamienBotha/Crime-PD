@@ -322,6 +322,21 @@
     {"lat": 79.256, "lng": -91.033},
     {"lat": 79.280, "lng": -90.715},
     {"lat": 79.289, "lng": -90.100}
+]
+},
+{
+  "id":18,
+  "type":"Neutral Zones",
+  "title":"Rockford Hills Bank",
+  "notes":"This Is part of the highly robbed banks group",
+  "order":2,
+"strokecolor":"#002EFF",
+"fillcolor":"#002EFF",
+  "latlngarray": [
+    {"lat": 68.420, "lng": -137.045},
+    {"lat": 68.188, "lng": -136.693},
+    {"lat": 68.246, "lng": -136.122},
+    {"lat": 68.577, "lng": -136.243}
     ]
 }
 ]
